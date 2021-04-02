@@ -4,9 +4,7 @@ import {Trivia} from "../src/shared/views/Trivia";
 
 function App() {
   return (
-
         <Trivia></Trivia>
-
   );
 }
 
